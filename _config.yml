@@ -1,8 +1,8 @@
 name: "mwwz"
 description: "书山有路勤为径，学海无涯苦作舟"
 
-avatar: https://pianfan.github.io/images/avatar.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://raw.githubusercontent.com/mwwzq/mwwzq.github.io/main/8b776b95bd22b7e69fc7ad964ea2b6b4.jpg
+favicon: https://raw.githubusercontent.com/mwwzq/mwwzq.github.io/main/favicon.ico
 
 navigation:
   - name: 首页
@@ -17,17 +17,17 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: xiongyunhan@outlook.com
+  zhihu: mwwz
+  email: mwwztech@qq.com
   facebook:
-  github: pianfan
+  github: mwwzbinf
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://pianfan.github.io
+url: https://mwwzq.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
